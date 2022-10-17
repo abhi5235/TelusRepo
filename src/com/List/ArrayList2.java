@@ -15,6 +15,7 @@ public class ArrayList2 {
 		list.add(9, "Virat");
 		
 		System.out.println(list);
+		System.out.println("i like coding");
 	}
 
 }
