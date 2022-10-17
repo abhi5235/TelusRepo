@@ -18,5 +18,5 @@ public class MainClass {
 		list.add(s5);
 		System.out.println(list);
 		System.out.println("this is a main class");
-	}
+		}
 }
